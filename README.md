@@ -3,7 +3,7 @@
 
 **Is** a ✨ Software Developer ✨.
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning HTML, CSS, JS AND CMS
 
 <!--
