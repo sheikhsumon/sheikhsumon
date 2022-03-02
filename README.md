@@ -4,6 +4,7 @@
 **Is** a ✨ Software Developer ✨.
 
 - 🔭 I’m currently working on something cool!
+- :rocket: Expert on @Joomla @Wordpress @Bootstrap @Responsive @Shopify
 - 🌱 I’m currently learning HTML, CSS, JS AND CMS
 
 <!--
