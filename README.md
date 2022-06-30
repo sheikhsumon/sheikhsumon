@@ -4,7 +4,7 @@
 **Is** a ✨ Software Developer ✨.
 
 - 🔭 I’m currently working on something cool!
-- :rocket: Expert on @Joomla @Wordpress @WooCommerce @Shopify @Bootstrap @Responsive
+- :rocket: Expert on @Magento @Joomla @Wordpress @WooCommerce @Shopify @Bootstrap @Responsive
 
 
 <!--
