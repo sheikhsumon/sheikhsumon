@@ -1,4 +1,4 @@
-### Hello, I'm Salekuddin Sheikh Sumon 👋
+### Hello, I'm Salek Uddin Sheikh 👋
 
 
 **Is** a ✨ Software Developer ✨.
